@@ -4,24 +4,41 @@
 
 ## Build Setup
 
-``` bash
-# install dependencies
+**1. Install dependencies**
+```bash
 npm install
+```
 
-# serve with hot reload at localhost:8080
+**2. Serve with hot reload at localhost:8080**
+```bash
 npm run dev
+```
 
-# build for production with minification
+**3. Build for production with minification**
+```bash
 npm run build
+```
 
-# run unit tests
+**4. Run unit tests**
+```bash
 npm run unit
+```
 
-# run e2e tests
+**5. Run e2e tests**
+```bash
 npm run e2e
+```
 
-# run all tests
+**6. Run all tests**
+```bash
 npm test
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+**7. Deploy on Heroku**
+```bash
+npm run deploy
+```
+
+The application is available at: [https://vue-leaflet.herokuapp.com/](https://vue-leaflet.herokuapp.com/)
